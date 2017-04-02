@@ -3,11 +3,10 @@ A group project for a news aggregator.
 
 The technologies used to make this project were:
 
-Front End
-
+**Front End**
 Front End: HTML, CSS, Javascript
 
-Back End
+**Back End**
 
 Back End: PHP
 
@@ -17,7 +16,7 @@ Database: MySQL Database
 
 Database Engine: innoDB
 
-Steps to implement:
+**Steps to implement:**
 
 1. Install XAMPP
 
