@@ -1,0 +1,34 @@
+[31-Jan-2016 16:12:32 UTC] PHP Parse error:  syntax error, unexpected ';', expecting '{' in /home/telecoma/public_html/db/db_func.php on line 140
+[31-Jan-2016 16:13:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 147
+[31-Jan-2016 16:13:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 160
+[31-Jan-2016 16:47:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 147
+[31-Jan-2016 17:22:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 147
+[31-Jan-2016 17:43:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 147
+[31-Jan-2016 17:43:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 160
+[31-Jan-2016 17:57:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 147
+[31-Jan-2016 17:57:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 160
+[31-Jan-2016 17:58:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 147
+[31-Jan-2016 17:59:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 147
+[31-Jan-2016 18:00:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 147
+[31-Jan-2016 18:03:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 147
+[31-Jan-2016 18:03:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 160
+[02-Feb-2016 14:45:14 UTC] PHP Warning:  require(autoload.php): failed to open stream: No such file or directory in /home/telecoma/public_html/utilities/callback-twitter.php on line 3
+[02-Feb-2016 14:45:14 UTC] PHP Fatal error:  require(): Failed opening required 'autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/telecoma/public_html/utilities/callback-twitter.php on line 3
+[02-Feb-2016 14:50:26 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/telecoma/public_html/utilities/twitter_signin.php on line 20
+[02-Feb-2016 14:51:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 147
+[02-Feb-2016 14:51:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 160
+[02-Feb-2016 14:51:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 147
+[02-Feb-2016 15:39:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 147
+[02-Feb-2016 16:26:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 147
+[02-Feb-2016 16:26:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 160
+[02-Feb-2016 17:42:08 UTC] PHP Fatal error:  Call to undefined method mysqli::checkUser() in /home/telecoma/public_html/utilities/linkdin-login.php on line 55
+[02-Feb-2016 17:42:50 UTC] PHP Fatal error:  Call to undefined method mysqli::checkUser() in /home/telecoma/public_html/utilities/linkdin-login.php on line 55
+[02-Feb-2016 17:42:53 UTC] PHP Fatal error:  Call to undefined method mysqli::checkUser() in /home/telecoma/public_html/utilities/linkdin-login.php on line 55
+[02-Feb-2016 17:50:09 UTC] PHP Fatal error:  Call to undefined method mysqli::checkUser() in /home/telecoma/public_html/utilities/linkdin-login.php on line 55
+[02-Feb-2016 17:50:33 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/telecoma/public_html/utilities/linkdin-login.php on line 58
+[02-Feb-2016 17:57:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 147
+[02-Feb-2016 17:57:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 160
+[02-Feb-2016 17:59:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 147
+[02-Feb-2016 17:59:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 147
+[02-Feb-2016 18:01:48 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/telecoma/public_html/db/db_func.php on line 147
+[02-Feb-2016 18:02:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/telecoma/public_html/db/db_func.php on line 147
