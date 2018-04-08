@@ -1,22 +1,25 @@
 # News4You
-A group project for a news aggregator. 
+A group project for a news aggregator.
+This news aggregator fetches latest and popular news using API and showcases them on the site.
 
-The technologies used to make this project were:
+# Technologies
 
-**Front End**
-Front End: HTML, CSS, Javascript
+### Front End
+- HTML,
+- CSS,
+- Javascript
 
-**Back End**
+### Back End
 
-Back End: PHP
+**Back End:** PHP
 
-Server: Apache
+**Server:** Apache
 
-Database: MySQL Database
+**Database:** MySQL Database
 
-Database Engine: innoDB
+**Database Engine:** innoDB
 
-**Steps to implement:**
+## Steps to implement:
 
 1. Install XAMPP
 
